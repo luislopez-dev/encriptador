@@ -1,4 +1,3 @@
-
 var in_box = document.getElementById("in-box");
 
 var out_box = document.getElementById("out-box");
