@@ -1,0 +1,25 @@
+body { background-color: #E5E5E5;}
+
+h1 { text-align: center;}
+
+button { border-radius: 10%; 
+         background-color: rgb(164, 81, 241); 
+         color: white;
+         padding: 30px;
+        }
+
+button:hover {
+  cursor: pointer;
+  background-color: blueviolet;
+}        
+
+.container{
+  margin: auto;
+  background-color: #E5E5E5;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
