@@ -20,4 +20,5 @@ function copy_text(){
 
   navigator.clipboard.writeText(copyText.value);
   
+  alert("Texto copiado: " + copyText.value);
 }
